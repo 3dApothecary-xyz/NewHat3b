@@ -8,7 +8,7 @@ Interfaces built into the PCB include:
 * 40pin Raspberry Pi Socket
 * 20pin HeaterBoardb Ribbon Cable Connector
 * 5x 3pin JST XH 3D Printer Digital Sensor Input Test Connector
-* 2x epin JST XH NewPixel Output Test Connector
+* 2x 3pin JST XH NewPixel Output Test Connector
 * 6pin STM32 SWD Ribbon Cable Connector
 
 Connector Information Presented On First Page of Schematics
